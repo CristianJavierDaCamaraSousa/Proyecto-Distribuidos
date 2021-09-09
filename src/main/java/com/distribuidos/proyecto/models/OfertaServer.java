@@ -2,7 +2,7 @@ package com.distribuidos.proyecto.models;
 
 import com.distribuidos.proyecto.utils.Constantes;
 
-public class Servidor {
+public class OfertaServer {
     
     private ServicioOfertaImpl oferta;
 
